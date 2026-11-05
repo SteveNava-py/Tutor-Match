@@ -40,8 +40,21 @@ Future features:
 </p>
 
 <ul>
-    <li>Manage subjects</li>
-    <li>Manage availability</li>
+    <li>
+        <a href="edit_tutor_profile.php">
+            Manage Profile
+        </a>
+    </li>
+    <li>
+        <a href="manage_availability.php">
+            Manage Availability
+        </a>
+    </li>
+    <li>
+        <a href="manage_subjects.php">
+            Manage Subjects
+        </a>
+    </li>
     <li>View tutoring requests</li>
 </ul>
 

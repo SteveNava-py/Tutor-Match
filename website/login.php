@@ -185,7 +185,7 @@ input{
     </form>
 
     <div class="footer-links">
-        <a href="register.php">Create Account</a>
+        <a href="#">Create Account (Coming Soon)</a>
     </div>
 
 </div>
